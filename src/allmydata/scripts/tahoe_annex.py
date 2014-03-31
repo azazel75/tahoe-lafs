@@ -2,7 +2,6 @@
 # :Progetto:  allmydata-tahoe -- git annex command
 # :Creato:    lun 31 mar 2014 18:42:03 CEST
 # :Autore:    Alberto Berti <alberto@metapensiero.it>
-# :Licenza:   GNU General Public License version 3 or later
 #
 
 from twisted.internet import stdio, reactor

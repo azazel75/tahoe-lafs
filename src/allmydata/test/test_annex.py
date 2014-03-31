@@ -2,7 +2,6 @@
 # :Progetto:  allmydata-tahoe -- tahoe annex test case
 # :Creato:    lun 31 mar 2014 18:17:30 CEST
 # :Autore:    Alberto Berti <alberto@metapensiero.it>
-# :Licenza:   GNU General Public License version 3 or later
 #
 
 from twisted.trial import unittest
