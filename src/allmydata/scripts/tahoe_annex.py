@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# :Progetto:  tahoe-lafs -- git annex command
+# :Progetto:  allmydata-tahoe -- git annex command
 # :Creato:    lun 31 mar 2014 18:42:03 CEST
 # :Autore:    Alberto Berti <alberto@metapensiero.it>
 # :Licenza:   GNU General Public License version 3 or later
